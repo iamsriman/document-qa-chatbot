@@ -7,9 +7,8 @@ load_dotenv()
 
 class EmbeddingService:
     def __init__(self):
-        # Use free HuggingFace embeddings instead of Gemini
         self.embeddings = HuggingFaceEmbeddings(
-            model_name="all-MiniLM-L6-v2"  # Small, fast, free model
+            model_name="all-MiniLM-L6-v2"
         )
         self.persist_directory = "./chroma_db"
         
@@ -32,5 +31,39 @@ class EmbeddingService:
             persist_directory=self.persist_directory,
             embedding_function=self.embeddings,
             collection_name=f"doc_{document_id}"
+        )
+        return vector_store
+    
+    def create_multi_doc_vector_store(self, all_chunks: list, session_id: str):
+        """
+        Create vector store for multiple documents
+        all_chunks: List of tuples (chunks, document_id)
+        """
+        texts = []
+        metadatas = []
+        
+        for chunks, doc_id in all_chunks:
+            for i, chunk in enumerate(chunks):
+                texts.append(chunk)
+                metadatas.append({
+                    "document_id": doc_id,
+                    "chunk_id": i
+                })
+        
+        vector_store = Chroma.from_texts(
+            texts=texts,
+            embedding=self.embeddings,
+            metadatas=metadatas,
+            persist_directory=self.persist_directory,
+            collection_name=f"session_{session_id}"
+        )
+        return vector_store
+    
+    def get_session_vector_store(self, session_id: str):
+        """Retrieve vector store for a chat session"""
+        vector_store = Chroma(
+            persist_directory=self.persist_directory,
+            embedding_function=self.embeddings,
+            collection_name=f"session_{session_id}"
         )
         return vector_store
