@@ -1,7 +1,7 @@
 
 Autonomous Research Intelligence System
 =======
-# Enhanced Document Q&A Chatbot with Research Paper Search
+# Autonomous Research Chatbot with Daily Research Updates
 
 A full-stack application that allows users to search for research papers, save them by topics, and chat with multiple PDFs using RAG (Retrieval-Augmented Generation).
 
