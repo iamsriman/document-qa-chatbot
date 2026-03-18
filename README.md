@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Autonomous Research Chatbot with Daily Research Updates
 
 An AI-powered research intelligence platform that enables users to discover academic papers, organize knowledge by topics, interact with multiple research documents using Retrieval-Augmented Generation (RAG), and receive automated research updates via email.
