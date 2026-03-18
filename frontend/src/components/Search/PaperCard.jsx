@@ -73,7 +73,7 @@ function PaperCard({ paper, onSave, isImportant }) {
           )}
           <button
             onClick={() => setShowTopicModal(true)}
-            className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 text-sm ml-auto"
+            className="bg-[#DECEAA] text-gray-900 px-4 py-2 rounded hover:bg-[#d6c49d] text-sm ml-auto"
           >
             💾 Save
           </button>
@@ -96,13 +96,13 @@ function PaperCard({ paper, onSave, isImportant }) {
               <button
                 onClick={handleSave}
                 disabled={saving}
-                className="flex-1 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 disabled:bg-gray-400"
+                className="flex-1 bg-[#DECEAA] text-gray-900 px-4 py-2 rounded hover:bg-[#d6c49d] disabled:bg-gray-400"
               >
                 {saving ? 'Saving...' : 'Save'}
               </button>
               <button
                 onClick={() => setShowTopicModal(false)}
-                className="flex-1 bg-gray-300 text-gray-700 px-4 py-2 rounded hover:bg-gray-400"
+                className="flex-1 bg-[#DECEAA] text-gray-900 px-4 py-2 rounded hover:bg-[#d6c49d]"
               >
                 Cancel
               </button>

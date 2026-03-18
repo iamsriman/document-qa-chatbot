@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-14T09:05:46.849477",
+  "query": "Lung Diagnosis ",
+  "papers": [
+    {
+      "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease 2017 Report: GOLD Executive Summary",
+      "authors": "C. Vogelmeier, G. Criner, F. Martinez, A. Anzueto, P. Barnes et al.",
+      "abstract": "No abstract.",
+      "year": 2017,
+      "citations": 3390,
+      "views": 0,
+      "pdf_link": "https://erj.ersjournals.com/content/erj/49/3/1700214.full.pdf",
+      "publisher_link": "https://doi.org/10.1183/13993003.00214-2017",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Diagnosis and Management of the Metabolic Syndrome: An American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement",
+      "authors": "S. Grundy, J. Cleeman, S. Daniels, K. Donato, R. Eckel et al.",
+      "abstract": "No abstract.",
+      "year": 2005,
+      "citations": 7626,
+      "views": 0,
+      "pdf_link": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.105.169404",
+      "publisher_link": "https://doi.org/10.1161/CIRCULATIONAHA.105.169404",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Liquid biopsy techniques and lung cancer: diagnosis, monitoring and evaluation",
+      "authors": "Fei Ren, Qian Fei, Kun Qiu, Yuanjie Zhang, Heyang Zhang et al.",
+      "abstract": "Lung cancer stands as the most prevalent form of cancer globally, posing a significant threat to human well-being. Due to the lack of effective and accurate early diagnostic methods, many patients are diagnosed with advanced lung cancer. Although surgical resection is still a potential means of eradicating lung cancer, patients with advanced lung cancer usually miss the best chance for surgical treatment, and even after surgical resection patients may still experience tumor recurrence. Additionally, chemotherapy, the mainstay of treatment for patients with advanced lung cancer, has the potenti",
+      "year": 2024,
+      "citations": 104,
+      "views": 0,
+      "pdf_link": "https://jeccr.biomedcentral.com/counter/pdf/10.1186/s13046-024-03026-7",
+      "publisher_link": "https://doi.org/10.1186/s13046-024-03026-7",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Artificial intelligence in lung cancer diagnosis and prognosis：current application and future perspective.",
+      "authors": "Shigao Huang, Jie Yang, Na Shen, Qingsong Xu, Qi Zhao",
+      "abstract": "Lung cancer is one of the malignant tumors with the highest incidence and mortality in the world. The overall five-year survival rate of lung cancer is relatively lower than many leading cancers. Early diagnosis and prognosis of lung cancer are essential to improve the patient's survival rate. With artificial intelligence (AI) approaches widely applied in lung cancer, early diagnosis and prediction have achieved excellent performance in recent years. This review summarizes various types of AI algorithm applications in lung cancer, including natural language processing (NLP), machine learning a",
+      "year": 2023,
+      "citations": 216,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1016/j.semcancer.2023.01.006",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Non-small cell lung cancer (NSCLC): A review of risk factors, diagnosis, and treatment",
+      "authors": "Yaser Alduais, Haijun Zhang, Fangjing Fan, J. Chen, B. Chen",
+      "abstract": "Lung cancer remains the leading cause of cancer deaths. Non-small cell lung cancer (NSCLC) is the most frequent subtype of lung cancer. Surgery, radiation, chemotherapy, immunotherapy, or molecularly targeted therapy is used to treat NSCLC. Nevertheless, many patients who accept surgery likely develop distant metastases or local recurrence. In recent years, targeted treatments and immunotherapy have achieved improvement at a breakneck pace. Therapy must be customized for each patient based on the specific medical condition, as well as other variables. It is critical to have an accurate NSCLC s",
+      "year": 2023,
+      "citations": 201,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.1097/md.0000000000032899",
+      "publisher_link": "https://doi.org/10.1097/MD.0000000000032899",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Metastatic non-small cell lung cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.",
+      "authors": "D. Planchard, S. Popat, K. Kerr, S. Novello, E. Smit et al.",
+      "abstract": "Department of Medical Oncology, Thoracic Group, Gustave-Roussy Villejuif, France; Royal Marsden Hospital, London; Aberdeen Royal Infirmary, Aberdeen University Medical School, Aberdeen, UK; Department of Oncology, University of Turin, San Luigi Hospital, Orbassano, Italy; Thoracic Oncology Service, Netherlands Cancer Institute, Amsterdam, The Netherlands; Division of Cancer Sciences, University of Manchester, Manchester, UK; Department of Clinical Oncology, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China; LungenClinic Airway Research Center North (ARCN), German ",
+      "year": 2018,
+      "citations": 2333,
+      "views": 0,
+      "pdf_link": "http://www.annalsofoncology.org/article/S0923753419317107/pdf",
+      "publisher_link": "https://doi.org/10.1093/annonc/mdy275",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. NHLBI/WHO Global Initiative for Chronic Obstructive Lung Disease (GOLD) Workshop summary.",
+      "authors": "R. Pauwels, A. Buist, P. Calverley, C. Jenkins, S. Hurd",
+      "abstract": "No abstract.",
+      "year": 2001,
+      "citations": 5717,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1164/AJRCCM.163.5.2101039",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Non-Small Cell Lung Cancer: Epidemiology, Screening, Diagnosis, and Treatment.",
+      "authors": "N. Duma, R. Santana-Davila, J. Molina",
+      "abstract": "Lung cancer remains the leading cause of cancer deaths in the United States. In the past decade, significant advances have been made in the science of non-small cell lung cancer (NSCLC). Screening has been introduced with the goal of early detection. The National Lung Screening Trial found a lung cancer mortality benefit of 20% and a 6.7% decrease in all-cause mortality with the use of low-dose chest computed tomography in high-risk individuals. The treatment of lung cancer has also evolved with the introduction of several lines of tyrosine kinase inhibitors in patients with EGFR, ALK, ROS1, a",
+      "year": 2019,
+      "citations": 1789,
+      "views": 0,
+      "pdf_link": "http://www.mayoclinicproceedings.org/article/S0025619619300709/pdf",
+      "publisher_link": "https://doi.org/10.1016/j.mayocp.2019.01.013",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "A Review of Deep Learning Techniques for Lung Cancer Screening and Diagnosis Based on CT Images",
+      "authors": "Mohammad A. Thanoon, M. A. Zulkifley, Muhammad Ammirrul Atiqi Mohd Zainuri, Siti Raihanah Abdani",
+      "abstract": "One of the most common and deadly diseases in the world is lung cancer. Only early identification of lung cancer can increase a patient’s probability of survival. A frequently used modality for the screening and diagnosis of lung cancer is computed tomography (CT) imaging, which provides a detailed scan of the lung. In line with the advancement of computer-assisted systems, deep learning techniques have been extensively explored to help in interpreting the CT images for lung cancer identification. Hence, the goal of this review is to provide a detailed review of the deep learning techniques th",
+      "year": 2023,
+      "citations": 129,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/2075-4418/13/16/2617/pdf?version=1691464255",
+      "publisher_link": "https://doi.org/10.3390/diagnostics13162617",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Unique microRNA molecular profiles in lung cancer diagnosis and prognosis",
+      "authors": "Nozomu Yanaihara, Natasha J. Caplen, Elise D. Bowman, Masahiro Seike, Kensuke Kumamoto et al.",
+      "abstract": "No abstract available.",
+      "year": 2006,
+      "citations": 3041,
+      "views": 0,
+      "pdf_link": "http://www.cell.com/article/S153561080600033X/pdf",
+      "publisher_link": "https://doi.org/10.1016/j.ccr.2006.01.025",
+      "source": "OpenAlex"
+    }
+  ]
+}

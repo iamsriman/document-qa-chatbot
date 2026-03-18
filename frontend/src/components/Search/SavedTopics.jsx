@@ -120,7 +120,7 @@ function SavedTopics() {
                     )}
                     <button
                       onClick={() => handleDeletePaper(paper.id)}
-                      className="bg-red-500 text-white px-3 py-1 rounded text-sm hover:bg-red-600 ml-auto"
+                      className="bg-[#DECEAA] text-gray-900 px-3 py-1 rounded text-sm hover:bg-[#d6c49d] ml-auto"
                     >
                       Delete
                     </button>

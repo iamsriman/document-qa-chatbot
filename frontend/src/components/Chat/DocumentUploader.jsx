@@ -79,7 +79,7 @@ function DocumentUploader({ topicId, onUploadSuccess }) {
       <button
         onClick={handleUpload}
         disabled={!file || uploading || !topicId}
-        className="w-full bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
+        className="w-full bg-[#DECEAA] text-gray-900 py-2 px-4 rounded-lg hover:bg-[#d6c49d] disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
       >
         {uploading ? 'Uploading...' : 'Upload PDF'}
       </button>

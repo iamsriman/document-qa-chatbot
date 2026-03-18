@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Env
+.env
+
+# Node (frontend)
+node_modules/
+
+# Databases / embeddings
+chromadb/
+*.bin
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/

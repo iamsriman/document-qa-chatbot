@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-17T11:48:23.930133",
+  "query": "RAG",
+  "papers": [
+    {
+      "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+      "authors": "Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, A. Chao et al.",
+      "abstract": "The use of retrieval-augmented generation (RAG) to retrieve relevant information from an external knowledge source enables large language models (LLMs) to answer questions over private and/or previously unseen document collections. However, RAG fails on global questions directed at an entire text corpus, such as\"What are the main themes in the dataset?\", since this is inherently a query-focused summarization (QFS) task, rather than an explicit retrieval task. Prior QFS methods, meanwhile, do not scale to the quantities of text indexed by typical RAG systems. To combine the strengths of these c",
+      "year": 2024,
+      "citations": 1190,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2404.16130",
+      "publisher_link": "https://arxiv.org/abs/2404.16130",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+      "authors": "Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi",
+      "abstract": "Despite their remarkable capabilities, large language models (LLMs) often produce responses containing factual inaccuracies due to their sole reliance on the parametric knowledge they encapsulate. Retrieval-Augmented Generation (RAG), an ad hoc approach that augments LMs with retrieval of relevant knowledge, decreases such issues. However, indiscriminately retrieving and incorporating a fixed number of retrieved passages, regardless of whether retrieval is necessary, or passages are relevant, diminishes LM versatility or can lead to unhelpful response generation. We introduce a new framework c",
+      "year": 2023,
+      "citations": 1547,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2310.11511",
+      "publisher_link": "https://arxiv.org/abs/2310.11511",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "authors": "Aditi Singh, Abul Ehtesham, Saket Kumar, T. T. Khoei",
+      "abstract": "Large Language Models (LLMs) have revolutionized artificial intelligence (AI) by enabling human like text generation and natural language understanding. However, their reliance on static training data limits their ability to respond to dynamic, real time queries, resulting in outdated or inaccurate outputs. Retrieval Augmented Generation (RAG) has emerged as a solution, enhancing LLMs by integrating real time data retrieval to provide contextually relevant and up-to-date responses. Despite its promise, traditional RAG systems are constrained by static workflows and lack the adaptability requir",
+      "year": 2025,
+      "citations": 230,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2501.09136",
+      "publisher_link": "https://doi.org/10.48550/arXiv.2501.09136",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "From RAG to Memory: Non-Parametric Continual Learning for Large Language Models",
+      "authors": "Bernal Jim'enez Guti'errez, Yiheng Shu, Weijian Qi, Sizhe Zhou, Yu Su",
+      "abstract": "Our ability to continuously acquire, organize, and leverage knowledge is a key feature of human intelligence that AI systems must approximate to unlock their full potential. Given the challenges in continual learning with large language models (LLMs), retrieval-augmented generation (RAG) has become the dominant way to introduce new information. However, its reliance on vector retrieval hinders its ability to mimic the dynamic and interconnected nature of human long-term memory. Recent RAG approaches augment vector embeddings with various structures like knowledge graphs to address some of thes",
+      "year": 2025,
+      "citations": 101,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2502.14802",
+      "publisher_link": "https://doi.org/10.48550/arXiv.2502.14802",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "RAFT: Adapting Language Model to Domain Specific RAG",
+      "authors": "Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, M. Zaharia et al.",
+      "abstract": "Pretraining Large Language Models (LLMs) on large corpora of textual data is now a standard paradigm. When using these LLMs for many downstream applications, it is common to additionally bake in new knowledge (e.g., time-critical news, or private domain knowledge) into the pretrained model either through RAG-based-prompting, or fine-tuning. However, the optimal methodology for the model to gain such new knowledge remains an open question. In this paper, we present Retrieval Augmented FineTuning (RAFT), a training recipe that improves the model's ability to answer questions in a\"open-book\"in-do",
+      "year": 2024,
+      "citations": 324,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2403.10131",
+      "publisher_link": "https://doi.org/10.48550/arXiv.2403.10131",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries",
+      "authors": "Yixuan Tang, Yi Yang",
+      "abstract": "Retrieval-augmented generation (RAG) augments large language models (LLM) by retrieving relevant knowledge, showing promising potential in mitigating LLM hallucinations and enhancing response quality, thereby facilitating the great adoption of LLMs in practice. However, we find that existing RAG systems are inadequate in answering multi-hop queries, which require retrieving and reasoning over multiple pieces of supporting evidence. Furthermore, to our knowledge, no existing RAG benchmarking dataset focuses on multi-hop queries. In this paper, we develop a novel dataset, MultiHop-RAG, which con",
+      "year": 2024,
+      "citations": 220,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2401.15391",
+      "publisher_link": "https://arxiv.org/abs/2401.15391",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models",
+      "authors": "Wenqi Fan, Yujuan Ding, Liang-bo Ning, Shijie Wang, Hengyun Li et al.",
+      "abstract": "As one of the most advanced techniques in AI, Retrieval-Augmented Generation (RAG) can offer reliable and up-to-date external knowledge, providing huge convenience for numerous tasks. Particularly in the era of AI-Generated Content (AIGC), the powerful capacity of retrieval in providing additional knowledge enables RAG to assist existing generative AI in producing high-quality outputs. Recently, Large Language Models (LLMs) have demonstrated revolutionary abilities in language understanding and generation, while still facing inherent limitations such as hallucinations and out-of-date internal ",
+      "year": 2024,
+      "citations": 730,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2405.06211",
+      "publisher_link": "https://doi.org/10.1145/3637528.3671470",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications",
+      "authors": "Jakub Swacha, Michał Gracel",
+      "abstract": "Retrieval-Augmented Generation (RAG) overcomes the main barrier for the adoption of LLM-based chatbots in education: hallucinations. The uncomplicated architecture of RAG chatbots makes it relatively easy to implement chatbots that serve specific purposes and thus are capable of addressing various needs in the educational domain. With five years having passed since the introduction of RAG, the time has come to check the progress attained in its adoption in education. This paper identifies 47 papers dedicated to RAG chatbots’ uses for various kinds of educational purposes, which are analyzed in",
+      "year": 2025,
+      "citations": 41,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.3390/app15084234",
+      "publisher_link": "https://doi.org/10.3390/app15084234",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "The Power of Noise: Redefining Retrieval for RAG Systems",
+      "authors": "Florin Cuconasu, Giovanni Trappolini, F. Siciliano, Simone Filice, Cesare Campagnano et al.",
+      "abstract": "Retrieval-Augmented Generation (RAG) has recently emerged as a method to extend beyond the pre-trained knowledge of Large Language Models by augmenting the original prompt with relevant passages or documents retrieved by an Information Retrieval (IR) system. RAG has become increasingly important for Generative AI solutions, especially in enterprise settings or in any domain in which knowledge is constantly refreshed and cannot be memorized in the LLM. We argue here that the retrieval component of RAG systems, be it dense or sparse, deserves increased attention from the research community, and ",
+      "year": 2024,
+      "citations": 334,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2401.14887",
+      "publisher_link": "https://doi.org/10.1145/3626772.3657834",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning",
+      "authors": "Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia et al.",
+      "abstract": "Retrieval-augmented generation (RAG) enhances the text generation capabilities of large language models (LLMs) by integrating external knowledge and up-to-date information. However, traditional RAG systems are limited by static workflows and lack the adaptability required for multistep reasoning and complex task management. To address these limitations, agentic RAG systems (e.g., DeepResearch) have been proposed, enabling dynamic retrieval strategies, iterative context refinement, and adaptive workflows for handling complex search queries beyond the capabilities of conventional RAG. Recent adv",
+      "year": 2025,
+      "citations": 40,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2505.14069",
+      "publisher_link": "https://doi.org/10.48550/arXiv.2505.14069",
+      "source": "Semantic Scholar"
+    }
+  ]
+}

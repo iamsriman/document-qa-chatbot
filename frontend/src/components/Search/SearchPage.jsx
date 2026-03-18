@@ -57,7 +57,7 @@ function SearchPage() {
         <div className="flex justify-end mb-4">
           <button
             onClick={() => setShowSaved(!showSaved)}
-            className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+            className="bg-[#DECEAA] text-gray-900 px-6 py-2 rounded-lg hover:bg-[#d6c49d] transition-colors"
           >
             {showSaved ? '🔍 Search Papers' : '📚 Saved Papers'}
           </button>

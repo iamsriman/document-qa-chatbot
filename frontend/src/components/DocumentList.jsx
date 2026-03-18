@@ -70,7 +70,7 @@ function DocumentList({ onSelectDocument, selectedDocumentId, refreshTrigger }) 
                 </div>
                 <button
                   onClick={(e) => handleDelete(doc.id, e)}
-                  className="text-red-500 hover:text-red-700 ml-2 font-medium"
+                  className="bg-[#DECEAA] hover:bg-[#d6c49d] text-gray-900 ml-2 font-medium px-3 py-1 rounded"
                 >
                   Delete
                 </button>

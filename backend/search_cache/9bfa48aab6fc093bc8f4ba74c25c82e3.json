@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-02-25T13:45:50.511593",
+  "query": "Binary Multiplication  ",
+  "papers": [
+    {
+      "title": "Quantum binary field multiplication with subquadratic Toffoli gate count and low space-time cost",
+      "authors": "Vivien Vandaele",
+      "abstract": "Multiplication over binary fields is a crucial operation in quantum algorithms designed to solve the discrete logarithm problem for elliptic curve defined over $GF(2^n)$. In this paper, we present an algorithm for constructing quantum circuits that perform multiplication over $GF(2^n)$ with $\\mathcal{O}(n^{\\log_2(3)})$ Toffoli gates. We propose a variant of our construction that achieves linear depth by using $\\mathcal{O}(n\\log_2(n))$ ancillary qubits. This approach provides the best known space-time trade-off for binary field multiplication with a subquadratic number of Toffoli gates. Additio",
+      "year": 2025,
+      "citations": 5,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2501.16136",
+      "publisher_link": "https://arxiv.org/abs/2501.16136",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "FPGA Implementation of Fast Binary Multiplication Based on Customized Basic Cells",
+      "authors": "Abd Al-Rahman Al-Nounou, O. Al-Khaleel, Fadi Obeidat, Mohammad Al-Khaleel",
+      "abstract": "Multiplication is considered one of the most time-consuming and a key operation in wide variety of embedded applications. Speeding up this operation has a significant impact on the overall performance of these applications. A vast number of multiplication approaches are found in the literature where the goal is always to achieve a higher performance. One of these approaches relies on using smaller multiplier blocks which are built based on direct Boolean algebra equations to build large multipliers. In this work, we present a methodology for designing binary multipliers where different sizes c",
+      "year": 2022,
+      "citations": 7,
+      "views": 0,
+      "pdf_link": "https://lib.jucs.org/article/86282/download/pdf/",
+      "publisher_link": "https://doi.org/10.3897/jucs.86282",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "High-Speed Grouping and Decomposition Multiplier for Binary Multiplication",
+      "authors": "Khamalesh Kumar Padmanabhan, Umadevi Seerengasamy, A. Ponraj",
+      "abstract": "In the computation systems that are frequently utilized in Digital Signal Processing (DSP)- and Fast Fourier transform (FFT)-based applications, binary multipliers play a crucial role. Multipliers are one of the basic arithmetic components used, and they require more hardware resources and computational time. Due to this, numerous studies have been performed so as to decrease the computational time and hardware requirements. In this research study on reducing the necessary computational time, a high-speed binary multiplier known as the Grouping and Decomposition (GD) multiplieris proposed. The",
+      "year": 2022,
+      "citations": 8,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/2079-9292/11/24/4202/pdf?version=1671172685",
+      "publisher_link": "https://doi.org/10.3390/electronics11244202",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "A SIGNED BINARY MULTIPLICATION TECHNIQUE",
+      "authors": "A. Booth",
+      "abstract": "No abstract.",
+      "year": 1951,
+      "citations": 1433,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1093/QJMAM/4.2.236",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU",
+      "authors": "Jianhua Gao, Weixing Ji, Zhaonian Tan, Yizhuo Wang, Feng Shi",
+      "abstract": "Binary Sparse Matrix-Vector Multiplication (SpMV) is a heavy computational kernel in weblink analysis, integer factorization, compressed sensing, spectral graph theory, and other domains. Testing several popular GPU-based SpMV implementations on 400 sparse matrices, we observed that data transfer to GPU memory accounts for a large part of the total computation time. The transfer of constant value 1s can be easily eliminated for binary sparse matrices. However, compressing index arrays has always been a great challenge. This paper proposes a new compression format TaiChi to further reduce index",
+      "year": 2022,
+      "citations": 13,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1109/TPDS.2022.3170501",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Microring resonator-based all-optical parallel pseudo random binary sequence generator for rate multiplication",
+      "authors": "Manjur Hossain, J. K. Rakshit, K. Zoiros",
+      "abstract": "In this paper, we design an all-optical Pseudo Random Binary Sequence (PRBS) generator in parallel configuration for operating rate multiplication purposes. The sequential circuit comprises of several clocked D flip-flops, XOR gates and multiplexers implemented using microring resonator (MRR)-based switches. The proposed design is demonstrated and validated through simulations for 500 Gb/s and 400 Gb/s rate doubling and quadrupling, respectively, of a 5-bit degree PRBS. The MRR critical operating parameters are also optimized against performance metrics through numerical investigation.",
+      "year": 2022,
+      "citations": 14,
+      "views": 0,
+      "pdf_link": "https://link.springer.com/content/pdf/10.1007/s11082-022-03908-0.pdf",
+      "publisher_link": "https://doi.org/10.1007/s11082-022-03908-0",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Ternary Versus Binary Multiplication with Current-Mode CNTFET-Based K-Valued Converters",
+      "authors": "M. Moradi, R. F. Mirzaee, K. Navi",
+      "abstract": "No abstract.",
+      "year": 2016,
+      "citations": 5,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1109/ISMVL.2016.19",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Fast matrix multiplication for binary and ternary CNNs on ARM CPU",
+      "authors": "A. Trusov, E. Limonova, Dmitry P. Nikolaev, V. Arlazarov",
+      "abstract": "Low-bit quantized neural networks (QNNs) are of great interest in practical applications because they significantly reduce the consumption of both memory and computational resources. Binary neural networks (BNNs) are memory and computationally efficient as they require only one bit per weight and activation and can be computed using Boolean logic and bit count operations. QNNs with ternary weights and activations (TNNs) and binary weights and ternary activations (TBNs) aim to improve recognition quality compared to BNNs while preserving low bit-width. However, their efficient implementation is",
+      "year": 2022,
+      "citations": 6,
+      "views": 0,
+      "pdf_link": "http://arxiv.org/pdf/2205.09120",
+      "publisher_link": "https://doi.org/10.1109/ICPR56361.2022.9956533",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "2DT-GLS: Faster and exception-free scalar multiplication in the GLS254 binary curve",
+      "authors": "Marius A. Aardal, Diego F. Aranha",
+      "abstract": "No abstract.",
+      "year": 2022,
+      "citations": 7,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1007/978-3-031-58411-4_3",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "A Scalable Montgomery Modular Multiplication Architecture with Low Area-Time Product Based on Redundant Binary Representation",
+      "authors": "Zhaoji Zhang, Peiyong Zhang",
+      "abstract": "The Montgomery modular multiplication is an integral operation unit in the public key cryptographic algorithm system. Previous work achieved good performance at low input widths by combining Redundant Binary Representation (RBR) with Montgomery modular multiplication, but it is difficult to strike a good balance between area and time as input bit widths increase. To solve this problem, based on the redundant Montgomery modular multiplication, in this paper, we propose a flexible and pipeline hardware implementation of the Montgomery modular multiplication. Our proposed structure guarantees a s",
+      "year": 2022,
+      "citations": 6,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/2079-9292/11/22/3712/pdf?version=1668754899",
+      "publisher_link": "https://doi.org/10.3390/electronics11223712",
+      "source": "Semantic Scholar"
+    }
+  ]
+}

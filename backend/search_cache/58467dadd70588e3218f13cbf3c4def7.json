@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-18T01:16:04.112515",
+  "query": "openai",
+  "papers": [
+    {
+      "title": "OpenAI Gym",
+      "authors": "Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman et al.",
+      "abstract": "OpenAI Gym is a toolkit for reinforcement learning research. It includes a growing collection of benchmark problems that expose a common interface, and a website where people can share their results and compare the performance of algorithms. This whitepaper discusses the components of OpenAI Gym and the design decisions that went into the software.",
+      "year": 2016,
+      "citations": 630,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1606.01540",
+      "publisher_link": "https://doi.org/10.48550/arxiv.1606.01540",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "OpenAI ChatGPT Generated Literature Review: Digital Twin in Healthcare",
+      "authors": "Ömer Aydın, Enis Karaarslan",
+      "abstract": "No abstract available.",
+      "year": 2022,
+      "citations": 393,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.2139/ssrn.4308687",
+      "publisher_link": "https://doi.org/10.2139/ssrn.4308687",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming",
+      "authors": "James Finnie-Ansley, Paul Denny, Brett A. Becker, Andrew Luxton-Reilly, James Prather",
+      "abstract": "Recent advances in artificial intelligence have been driven by an exponential growth in digitised data. Natural language processing, in particular, has been transformed by machine learning models such as OpenAI’s GPT-3 which generates human-like text so realistic that its developers have warned of the dangers of its misuse. In recent months OpenAI released Codex, a new deep learning model trained on Python code from more than 50 million GitHub repositories. Provided with a natural language description of a programming problem as input, Codex generates solution code as output. It can also expla...",
+      "year": 2022,
+      "citations": 391,
+      "views": 0,
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3511861.3511863",
+      "publisher_link": "https://doi.org/10.1145/3511861.3511863",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "ns-3 meets OpenAI Gym",
+      "authors": "Piotr Gawłowicz, Anatolij Zubow",
+      "abstract": "Recently, we have seen a boom of attempts to improve the operation of networking protocols using machine learning techniques. The proposed reinforcement learning (RL) based control solutions very often overtake traditionally designed ones in terms of performance and efficiency. However, in order to reach such a superb level, an RL control agent requires a lot of interactions with an environment to learn the best policies. Similarly, the recent advancements in image recognition area were enabled by the rise of large labeled datasets (e.g. ImageNet). This paper presents the ns3-gym - the first f...",
+      "year": 2019,
+      "citations": 149,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1145/3345768.3355908",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Artificial intelligence (AI) technology in OpenAI ChatGPT application: A review of ChatGPT in writing English essay",
+      "authors": "Tira Nur Fitria",
+      "abstract": "ChatGPT is a product of AI that is currently being widely discussed on Twitter. This research reviews how ChatGPT writes English essays. This research is descriptive qualitative. The analysis shows that we can access ChatGPT on openai.com or chat.openai.com on the browser. If we do not have an account, we register via email, Google, or Microsoft account. After login, enter a question or statement in the conversation column provided. Send it and ChatGPT will respond and the answer appear quickly. The researcher tries ChatGPT “Can you help me in doing my English assignment?\", and the ChatBot rep...",
+      "year": 2023,
+      "citations": 264,
+      "views": 0,
+      "pdf_link": "https://journal.unnes.ac.id/sju/index.php/elt/article/download/64069/24008",
+      "publisher_link": "https://doi.org/10.15294/elt.v12i1.64069",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Extending the OpenAI Gym for robotics: a toolkit for reinforcement learning using ROS and Gazebo",
+      "authors": "Iker Zamora, Nestor Gonzalez Lopez, Víctor Mayoral Vilches, Alejandro Hernández Cordero",
+      "abstract": "This paper presents an extension of the OpenAI Gym for robotics using the Robot Operating System (ROS) and the Gazebo simulator. The content discusses the software architecture proposed and the results obtained by using two Reinforcement Learning techniques: Q-Learning and Sarsa. Ultimately, the output of this work presents a benchmarking system for robotics that allows different techniques and algorithms to be compared using the same virtual conditions.",
+      "year": 2016,
+      "citations": 90,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1608.05742",
+      "publisher_link": "https://doi.org/10.48550/arxiv.1608.05742",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A Study on the Utilization of OpenAI ChatGPT as a Second Language Learning Tool",
+      "authors": "Sunyoung Kim, Joobo Shim, Jaechang Shim",
+      "abstract": "In November 2022, ChatGPT was introduced and caused a sensation, gathering 100 million users only within two months. ChatGPT’s capability of generating high-quality sentences demonstrated potential to be applied in a wide range of fields. In this paper, we explore the utilization of ChatGPT as a second language learning tool and scrutinize its suitability. Specifically, we analyzed technical aspects of ChatGPT including its principles, history, and features. We then assessed its ability from two different perspectives: designing course contents and teaching these contents based on Task-Based L...",
+      "year": 2023,
+      "citations": 86,
+      "views": 0,
+      "pdf_link": "http://www.jmis.org/download/download_pdf?pid=jmis-10-1-79",
+      "publisher_link": "https://doi.org/10.33851/jmis.2023.10.1.79",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "ns3-gym: Extending OpenAI Gym for Networking Research",
+      "authors": "Piotr Gawłowicz, Anatolij Zubow",
+      "abstract": "OpenAI Gym is a toolkit for reinforcement learning (RL) research. It includes a large number of well-known problems that expose a common interface allowing to directly compare the performance results of different RL algorithms. Since many years, the ns-3 network simulation tool is the de-facto standard for academic and industry research into networking protocols and communications technology. Numerous scientific papers were written reporting results obtained using ns-3, and hundreds of models and modules were written and contributed to the ns-3 code base. Today as a major trend in network rese...",
+      "year": 2018,
+      "citations": 58,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1810.03943",
+      "publisher_link": "https://doi.org/10.48550/arxiv.1810.03943",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Introduction to Azure AI and OpenAI",
+      "authors": "Shimon Ifrah",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 3,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1007/979-8-8688-0599-8_1",
+      "source": "CrossRef"
+    },
+    {
+      "title": "gym: Provides Access to the OpenAI Gym API",
+      "authors": "Paul Hendricks",
+      "abstract": "No abstract available.",
+      "year": 2016,
+      "citations": 4,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.32614/cran.package.gym",
+      "source": "CrossRef"
+    }
+  ]
+}

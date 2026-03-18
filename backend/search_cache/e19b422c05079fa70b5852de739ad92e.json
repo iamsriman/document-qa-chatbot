@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-17T11:38:06.614590",
+  "query": "llm",
+  "papers": [
+    {
+      "title": "Neuromodulatory Control Networks (NCNs): A Biologically Inspired Architecture for Dynamic LLM Processing",
+      "authors": "Jimmy Ba",
+      "abstract": "Large Language Models (LLMs) based on the Transformer architecture have achieved remarkable success, yet their core processing mechanisms remain largely static after training. While powerful, this static nature limits their ability to dynamically adapt their processing strategy based on nuanced contextual cues, task demands, or desired operational modes (e.g., shifting between exploration and exploitation). We propose Neuromodulatory Control Networks (NCNs), a novel architectural modification inspired by the neuromodulatory systems in the vertebrate brain (e.g., those utilizing dopamine, acety...",
+      "year": 2025,
+      "citations": 1354,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.5281/zenodo.17621804",
+      "publisher_link": "https://doi.org/10.5281/zenodo.17621804",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly",
+      "authors": "Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Zhibo Sun et al.",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 746,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.1016/j.hcc.2024.100211",
+      "publisher_link": "https://doi.org/10.1016/j.hcc.2024.100211",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
+      "authors": "J.D. Zamfirescu-Pereira, Richmond Y. Wong, Bjoern Hartmann, Qian Yang",
+      "abstract": "Pre-trained large language models (“LLMs”) like GPT-3 can engage in fluent, multi-turn instruction-taking out-of-the-box, making them attractive materials for designing natural language interactions. Using natural language to steer LLM outputs (“prompting”) has emerged as an important design technique potentially accessible to non-AI-experts. Crafting effective prompts can be challenging, however, and prompt-based interactions are brittle. Here, we explore whether non-AI-experts can successfully engage in “end-user prompt engineering” using a design probe—a prototype LLM-based chatbot design t...",
+      "year": 2023,
+      "citations": 687,
+      "views": 0,
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3544548.3581388",
+      "publisher_link": "https://doi.org/10.1145/3544548.3581388",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond",
+      "authors": "Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng et al.",
+      "abstract": "This article presents a comprehensive and practical guide for practitioners and end-users working with Large Language Models (LLMs) in their downstream Natural Language Processing (NLP) tasks. We provide discussions and insights into the usage of LLMs from the perspectives of models, data, and downstream tasks. First, we offer an introduction and brief summary of current language models. Then, we discuss the influence of pre-training data, training data, and test data. Most importantly, we provide a detailed discussion about the use and non-use cases of large language models for various natura...",
+      "year": 2024,
+      "citations": 434,
+      "views": 0,
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3649506",
+      "publisher_link": "https://doi.org/10.1145/3649506",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+      "authors": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu et al.",
+      "abstract": "Evaluating large language model (LLM) based chat assistants is challenging due to their broad capabilities and the inadequacy of existing benchmarks in measuring human preferences. To address this, we explore using strong LLMs as judges to evaluate these models on more open-ended questions. We examine the usage and limitations of LLM-as-a-judge, including position, verbosity, and self-enhancement biases, as well as limited reasoning ability, and propose solutions to mitigate some of them. We then verify the agreement between LLM judges and human preferences by introducing two benchmarks: MT-be...",
+      "year": 2023,
+      "citations": 429,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2306.05685",
+      "publisher_link": "https://doi.org/10.48550/arxiv.2306.05685",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "From Prediction to Precision: Leveraging LLMs for Equitable and Data-Driven Writing Placement in Developmental Education",
+      "authors": "Margherita Grandini, E. Bagli",
+      "abstract": "Accurate text classification and placement remain challenges in U.S. higher education, with traditional automated systems like Accuplacer functioning as \"black-box\" models with limited assessment transparency. This study evaluates Large Language Models (LLMs) as complementary placement tools by comparing their classification performance against a human-rated gold standard and Accuplacer. A 450-essay corpus was classified using Claude, Gemini, GPT-3.5-turbo, and GPT-4o across four prompting strategies: Zero-shot, Few-shot, Enhanced, and Enhanced+ (definitions with examples). Two classification ...",
+      "year": 2025,
+      "citations": 732,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.4230/oasics.slate.2025.1",
+      "publisher_link": "https://doi.org/10.4230/oasics.slate.2025.1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "authors": "Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer",
+      "abstract": "We present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters~(LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU. QLoRA introduces a number of innovations to save m...",
+      "year": 2023,
+      "citations": 484,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2305.14314",
+      "publisher_link": "https://doi.org/10.48550/arxiv.2305.14314",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models",
+      "authors": "Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li et al.",
+      "abstract": "As one of the most advanced techniques in AI, Retrieval-Augmented Generation (RAG) can offer reliable and up-to-date external knowledge, providing huge convenience for numerous tasks. Particularly in the era of AI-Generated Content (AIGC), the powerful capacity of retrieval in providing additional knowledge enables RAG to assist existing generative AI in producing high-quality outputs. Recently, Large Language Models (LLMs) have demonstrated revolutionary abilities in language understanding and generation, while still facing inherent limitations such as hallucinations and out-of-date internal ...",
+      "year": 2024,
+      "citations": 432,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1145/3637528.3671470",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Using an LLM to Help With Code Understanding",
+      "authors": "Daye Nam, Andrew Macvean, Vincent J. Hellendoorn, Bogdan Vasilescu, Brad A. Myers",
+      "abstract": "Understanding code is challenging, especially when working in new and complex development environments. Code comments and documentation can help, but are typically scarce or hard to navigate. Large language models (LLMs) are revolutionizing the process of writing code. Can they do the same for helping understand it? In this study, we provide a first investigation of an LLM-based conversational UI built directly in the IDE that is geared towards code understanding. Our IDE plugin queries OpenAI's GPT-3.5-turbo model with four high-level requests without the user having to write explicit prompts...",
+      "year": 2024,
+      "citations": 246,
+      "views": 0,
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3597503.3639187",
+      "publisher_link": "https://doi.org/10.1145/3597503.3639187",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "GPTs are GPTs: Labor market impact potential of LLMs",
+      "authors": "Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel L. Rock",
+      "abstract": "Research is needed to estimate how jobs may be affected.",
+      "year": 2024,
+      "citations": 461,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1126/science.adj0998",
+      "source": "OpenAlex"
+    }
+  ]
+}

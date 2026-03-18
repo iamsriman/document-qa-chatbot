@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-02-24T10:22:05.334922",
+  "query": "LLM vs RAG",
+  "papers": [
+    {
+      "title": "A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG",
+      "authors": "Ali Yazhari Kermani, Verónica Pérez‐Rosas, Vangelis Metsis",
+      "abstract": "This study presents a systematic comparison of three approaches for the analysis of mental health text using large language models (LLMs): prompt engineering, retrieval augmented generation (RAG), and fine-tuning.Using LLaMA 3, we evaluate these approaches on emotion classification and mental health condition detection tasks across two datasets.Finetuning achieves the highest accuracy (91% for emotion classification, 80% for mental health conditions) but requires substantial computational resources and large training sets, while prompt engineering and RAG offer more flexible deployment with mo...",
+      "year": 2025,
+      "citations": 8,
+      "views": 0,
+      "pdf_link": "https://aclanthology.org/2025.clpsych-1.14.pdf",
+      "publisher_link": "https://doi.org/10.18653/v1/2025.clpsych-1.14",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Long Context vs. RAG: Strategies for Processing Long Documents in LLMs",
+      "authors": "Xinze Li, Y. Bai, Bowen Jin, Fengbin Zhu, Liangming Pan et al.",
+      "abstract": "Large Language Models (LLMs) excel at zero- and few-shot learning but are restricted by the length of context windows when processing long documents. Two strategies have emerged to overcome this limitation: (1) Long Context (LC) methods, which extend or compress transformer architectures to input more text; and (2) Retrieval-Augmented Generation (RAG), which integrates external knowledge sources via embedding- or index-based retrieval. This half-day tutorial offers a unified, beginner-friendly introduction to both approaches. We first review transformer fundamentals-positional encoding, attent...",
+      "year": 2025,
+      "citations": 2,
+      "views": 0,
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3726302.3731690",
+      "publisher_link": "https://doi.org/10.1145/3726302.3731690",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Optimization of hepatological clinical guidelines interpretation by large language models: a retrieval augmented generation-based framework",
+      "authors": "Simone Kresevic, Mauro Giuffrè, Miloš Ajčević, Agostino Accardo, Lory Saveria Crocè et al.",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 153,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41746-024-01091-y.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41746-024-01091-y",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness",
+      "authors": "Yu He Ke, Liyuan Jin, Kabilan Elangovan, Hairil Rizal Abdullah, Nan Liu et al.",
+      "abstract": "Large Language Models (LLMs) hold promise for medical applications but often lack domain-specific expertise. Retrieval Augmented Generation (RAG) enables customization by integrating specialized knowledge. This study assessed the accuracy, consistency, and safety of LLM-RAG models in determining surgical fitness and delivering preoperative instructions using 35 local and 23 international guidelines. Ten LLMs (e.g., GPT3.5, GPT4, GPT4o, Gemini, Llama2, and Llama3, Claude) were tested across 14 clinical scenarios. A total of 3234 responses were generated and compared to 448 human-generated answe...",
+      "year": 2025,
+      "citations": 63,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41746-025-01519-z.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41746-025-01519-z",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit",
+      "authors": "Huixue Zhou, Hengrui Gu, Zaifu Zhan, Xi Liu, Kaixiong Zhou et al.",
+      "abstract": "Huixue Zhou, Hengrui Gu, Zaifu Zhan, Xi Liu, Kaixiong Zhou, Yongkang Xiao, Mingfu Liang, Srinivas Prasad Govindan, Piyush Chawla, Jiyan Yang, Xiangfei Meng, Huayu Li, Buyun Zhang, Liang Luo, Wen-Yen Chen, Yiping Han, Bo Long, Rui Zhang, Tianlong Chen. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2025.",
+      "year": 2025,
+      "citations": 1,
+      "views": 0,
+      "pdf_link": "https://aclanthology.org/2025.acl-long.1283.pdf",
+      "publisher_link": "https://doi.org/10.18653/v1/2025.acl-long.1283",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Evaluation of the integration of retrieval-augmented generation in large language model for breast cancer nursing care responses",
+      "authors": "XU Rui-yu, Ying Hong, Feifei Zhang, Hongmei Xu",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 16,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41598-024-81052-3.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41598-024-81052-3",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Enhancing Large Language Models with Retrieval-Augmented Generation: A Radiology-Specific Approach",
+      "authors": "Dane Weinert, Andreas M. Rauschecker",
+      "abstract": "Retrieval-augmented generation (RAG) is a strategy to improve the performance of large language models (LLMs) by providing an LLM with an updated corpus of knowledge that can be used for answer generation in real time. RAG may improve LLM performance and clinical applicability in radiology by providing citable, up-to-date information without requiring model fine-tuning. In this retrospective study, a radiology-specific RAG system was developed using a vector database of 3689 <i>RadioGraphics</i> articles published from January 1999 to December 2023. Performance of five LLMs with (RAG-Systems) ...",
+      "year": 2025,
+      "citations": 13,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1148/ryai.240313",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Retrieval Augmented Generation Enabled Generative Pre-Trained Transformer 4 (GPT-4) Performance for Clinical Trial Screening",
+      "authors": "Ozan Ünlü, Ji-Yeon Shin, Charlotte Mailly, Michael F Oates, Michela Tucci et al.",
+      "abstract": "ABSTRACT Background Subject screening is a key aspect of all clinical trials; however, traditionally, it is a labor-intensive and error-prone task, demanding significant time and resources. With the advent of large language models (LLMs) and related technologies, a paradigm shift in natural language processing capabilities offers a promising avenue for increasing both quality and efficiency of screening efforts. This study aimed to test the Retrieval-Augmented Generation (RAG) process enabled Generative Pretrained Transformer Version 4 (GPT-4) to accurately identify and report on inclusion and...",
+      "year": 2024,
+      "citations": 38,
+      "views": 0,
+      "pdf_link": "https://www.medrxiv.org/content/medrxiv/early/2024/02/08/2024.02.08.24302376.full.pdf",
+      "publisher_link": "https://doi.org/10.1101/2024.02.08.24302376",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Feature-Driven vs Language-Based AI Online Gambling Addiction Modeling: Exploring Interpretability Through XGBoost and LLM-Based RAG",
+      "authors": "Jermaine E. Le Grand",
+      "abstract": "The rise of online gambling has increased concern around identifying behavioral addiction in digital environments. Current predictive systems offer limited interpretability and justification for individual-level risk assessments as they often operate as black boxes. This study proposes a hybrid framework that combines a traditional machine learning model (XGBoost) with a language-based Retrieval-Augmented Generation (RAG) system to combat these limitations. Using user-level behavioral and demographic data, an XGBoost classifier was trained and SHAP (SHapley Additive exPlanations) was applied t...",
+      "year": 2025,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.20944/preprints202506.0883.v1",
+      "source": "CrossRef"
+    },
+    {
+      "title": "DISEASE DIAGNOSIS USING RAG LLM WITH SMART PROMPT ENGINEERING",
+      "authors": "Qadeerullah Syed",
+      "abstract": "No abstract available.",
+      "year": 0,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.31979/etd.azur-9jbv",
+      "source": "CrossRef"
+    }
+  ]
+}

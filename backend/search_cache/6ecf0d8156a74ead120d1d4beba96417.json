@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-02-25T13:47:28.678161",
+  "query": "itrative Binary Multiplication nikhilam sutra ",
+  "papers": [
+    {
+      "title": "Implementation of &amp;lt;i&amp;gt;N&amp;lt;/i&amp;gt;-Bit Binary Multiplication Using &amp;lt;i&amp;gt;N&amp;lt;/i&amp;gt; - 1 Bit Multiplication Based on Nikhilam Sutra and Karatsuba Principles Using Complement Method",
+      "authors": "M. Nisha Angeline, S. Valarmathy",
+      "abstract": "No abstract available.",
+      "year": 2016,
+      "citations": 5,
+      "views": 0,
+      "pdf_link": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/cs.2016.79203",
+      "publisher_link": "https://doi.org/10.4236/cs.2016.79203",
+      "source": "CrossRef"
+    },
+    {
+      "title": "Optimized Hardware Implementation of Vedic Binary Multiplier using Nikhilam Sutra on FPGA",
+      "authors": "Palak Yash, Mansi Thakare, Babita Jajodia",
+      "abstract": "No abstract available.",
+      "year": 2022,
+      "citations": 2,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1109/lascas53948.2022.9789063",
+      "source": "CrossRef"
+    },
+    {
+      "title": "Vedic Multiplier Based 32 Bit MAC Unit Using Nikhilam Sutra and Urdhva Triyakbhyam Sutra with Different Adders",
+      "authors": "G. Priyanka, N. Gireesh, S. Hemachandra",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1109/icicec62498.2024.10808670",
+      "source": "CrossRef"
+    },
+    {
+      "title": "An Efficient Multiplication Algorithm using Nikhilam Method",
+      "authors": "S.P. Dwivedi",
+      "abstract": "No abstract available.",
+      "year": 2013,
+      "citations": 9,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1049/cp.2013.2209",
+      "source": "CrossRef"
+    },
+    {
+      "title": "Investigation of the Performance of Nikhilam Multiplication Algorithm",
+      "authors": "Can Eyupoglu",
+      "abstract": "No abstract available.",
+      "year": 2015,
+      "citations": 4,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1016/j.sbspro.2015.06.208",
+      "source": "CrossRef"
+    },
+    {
+      "title": "High speed multiplier using Nikhilam Sutra algorithm of Vedic mathematics",
+      "authors": "Manoranjan Pradhan, Rutuparna Panda",
+      "abstract": "No abstract available.",
+      "year": 2013,
+      "citations": 16,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1080/00207217.2013.780298",
+      "source": "CrossRef"
+    },
+    {
+      "title": "FPGA Implementation of Enhanced Throughput Design of AES Architecture using Nikhilam Sutra",
+      "authors": "Bindu Swetha Pasuluri, V. J. K. Kishor Sonti",
+      "abstract": "The exponential growth of the internet and contemporary communications users have established safety as a fundamental design feature for encrypted transmission. The Enhanced Cryptography Standard is perhaps the most widely used cryptography information security algorithm standard that has been authorized by NIST. This paper proposes a high-throughput design for the AES Algorithm with huge key sizes. AES would be a block cipher that ensures data security by using key lengths of 128,192 and 256-bits. The design concept focuses on a 256-bit key size classification algorithm since a big key size i...",
+      "year": 2022,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.37394/232027.2022.4.8",
+      "source": "CrossRef"
+    },
+    {
+      "title": "Design of High Speed Vedic Multiplier based on Nikhilam Sutra Algorithm using Successive Approximation",
+      "authors": "S. K. Manikandan, C. Palanisamy",
+      "abstract": "No abstract available.",
+      "year": 2016,
+      "citations": 2,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.5958/2249-7315.2016.00232.x",
+      "source": "CrossRef"
+    },
+    {
+      "title": "Binary Multiplication",
+      "authors": "Clive ″Max″ Maxfield",
+      "abstract": "No abstract available.",
+      "year": 1998,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1016/b978-075069089-8/50015-3",
+      "source": "CrossRef"
+    },
+    {
+      "title": "An Efficient Elliptic Curve Cryptography Arithmetic Using Nikhilam Multiplication",
+      "authors": "Prokash Barman, Banani Saha",
+      "abstract": "Multiplication is one of the most important operation in Elliptic Curve Cryptography (ECC) arithmetic. For point addition and point doubling in ECC scalar (integer) multiplication is required. In higher order classical (standard) multiplication many intermediate operations are required. Reduced operation in multiplication will increase the functional speed of ECC arithmetic. These goals can be achieved using ancient multiplication algorithm namely Nikhilam Sutra. Nikhilam Sutra is one of the Sutra (algorithm) within 16 Vedic mathematics Sutras (algorithms). Nikhilam Sutra is efficient for mult",
+      "year": 2023,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2311.11392v1",
+      "publisher_link": "https://arxiv.org/abs/2311.11392v1",
+      "source": "arXiv"
+    }
+  ]
+}

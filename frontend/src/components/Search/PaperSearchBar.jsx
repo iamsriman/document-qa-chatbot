@@ -26,7 +26,7 @@ function PaperSearchBar({ onSearch, loading }) {
           <button
             type="submit"
             disabled={loading || !query.trim()}
-            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors font-medium"
+            className="bg-[#DECEAA] text-gray-900 px-6 py-3 rounded-lg hover:bg-[#d6c49d] disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors font-medium"
           >
             {loading ? 'Searching...' : 'Search'}
           </button>

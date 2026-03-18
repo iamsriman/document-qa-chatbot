@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-14T09:09:52.764544",
+  "query": "photosynthesis ",
+  "papers": [
+    {
+      "title": "Carbon Isotope Discrimination and Photosynthesis",
+      "authors": "Graham D. Farquhar, James R. Ehleringer, Kerry T. Hubick",
+      "abstract": "We discuss the physical and enzymatic bases of carbone isotope discrimination during photosynthesis, noting how knowledge of discrimination can be used to provide additional insight into photosynthetic metabolism and the environmental influences on that process",
+      "year": 1989,
+      "citations": 6699,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1146/annurev.pp.40.060189.002443",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Light and photosynthesis in aquatic ecosystems",
+      "authors": "John T. O. Kirk",
+      "abstract": "Penetration of light into aquatic ecosystems is greatly affected by the absorption and scattering processes that take place within the water. Thus within any water body, the intensity and colour of the light field changes greatly with depth and this has a marked influence on both the total productivity of, and the kinds of plant that predominate in, the ecosystem. This study presents an integrated and coherent treatment of the key role of light in aquatic ecosystems. It ranges from the physics of light transmission within water, through the biochemistry and physiology of aquatic photosynthesis...",
+      "year": 1994,
+      "citations": 4592,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1017/cbo9780511623370",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Chlorophyll Fluorescence: A Probe of Photosynthesis In Vivo",
+      "authors": "Neil R. Baker",
+      "abstract": "The use of chlorophyll fluorescence to monitor photosynthetic performance in algae and plants is now widespread. This review examines how fluorescence parameters can be used to evaluate changes in photosystem II (PSII) photochemistry, linear electron flux, and CO(2) assimilation in vivo, and outlines the theoretical bases for the use of specific fluorescence parameters. Although fluorescence parameters can be measured easily, many potential problems may arise when they are applied to predict changes in photosynthetic performance. In particular, consideration is given to problems associated wit...",
+      "year": 2008,
+      "citations": 4420,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1146/annurev.arplant.59.032607.092759",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Stomatal Conductance and Photosynthesis",
+      "authors": "Graham D. Farquhar, Thomas D. Sharkey",
+      "abstract": "This research is part of an effort that the ICT (Institute of Tropical Cultivation) has been doing for several years tending to develop superior genotypes of cocoa (Theobroma cacao L.). That is why this study aims to find tolerant or moderately tolerant cocoa genotypes and accessions to water stress with resistance to pests and diseases and high production and industrial quality. Twenty genotypes of cocoa seedlings were investigated, during the period of 6 months, in a soil with sandy-loam texture under nursery conditions, of controlled irrigation. A split plot design was used, with 40 treatme...",
+      "year": 1982,
+      "citations": 4114,
+      "views": 0,
+      "pdf_link": "http://repositorio.unsm.edu.pe/handle/UNSM/3149",
+      "publisher_link": "https://doi.org/10.1146/annurev.pp.33.060182.001533",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Chlorophyll Fluorescence and Photosynthesis: The Basics",
+      "authors": "G. Heinrich Krause, Engelbert Weis",
+      "abstract": "BIOPHYSICAL BASIS O F FLUORESCENCE EMISSION FROM CHLOROPLASTS . . . . .. . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . 314 Fluorescence as a Reaction Competing in the Deactivation of Excited Chlorophyll . . . . . . . . . . ... . . .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314 Lifetimes of Fluorescence . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . 317 Origin of Fluor...",
+      "year": 1991,
+      "citations": 4141,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1146/annurev.pp.42.060191.001525",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Some relationships between the biochemistry of photosynthesis and the gas exchange of leaves",
+      "authors": "Susanne von Caemmerer, Graham D. Farquhar",
+      "abstract": "No abstract available.",
+      "year": 1981,
+      "citations": 4698,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1007/bf00384257",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Molecular Mechanisms of Photosynthesis",
+      "authors": "Robert E. Blankenship",
+      "abstract": "1. Light and Energy. 2. Organization and Structure of Photosynthetic Systems. 3. History and Development of Photosynthesis. 4. Photosynthetic Pigments-Structure and Spectroscopy. 5. Antenna Complexes and Energy Transfer Processes. 6. Reaction Center Complexes. 7. Electron Transfer Pathways and Components. 8. Chemiosmotic Coupling and ATP Synthesis. 9. Carbon Metabolism. 10. Genetics, Assembly and Regulation of Photosynthetic. Systems. 11. Origin and Evolution of Photosynthesis. Appendix 1. Light, Energy and Kinetics",
+      "year": 2002,
+      "citations": 2345,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1002/9780470758472",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Carbon Isotopes in Photosynthesis",
+      "authors": "Marion H. O’Leary",
+      "abstract": "Journal Article Carbon Isotopes in Photosynthesis: Fractionation techniques may reveal new aspects of carbon dynamics in plants Get access Marion H. O'Leary Marion H. O'Leary Search for other works by this author on: Oxford Academic Google Scholar BioScience, Volume 38, Issue 5, May 1988, Pages 328–336, https://doi.org/10.2307/1310735 Published: 01 May 1988",
+      "year": 1988,
+      "citations": 2425,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.2307/1310735",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Aquatic Photosynthesis",
+      "authors": "Paul G. Falkowski, John A. Raven",
+      "abstract": "Aquatic Photosynthesis is a comprehensive guide to understanding the evolution and ecology of photosynthesis in aquatic environments. This second edition, thoroughly revised to bring it up to date, describes how one of the most fundamental metabolic processes evolved and transformed the surface chemistry of the Earth. The book focuses on recent biochemical and biophysical advances and the molecular biological techniques that have made them possible. In ten chapters that are self-contained but that build upon information presented earlier, the book starts with a reductionist, biophysical descri...",
+      "year": 2007,
+      "citations": 1933,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1515/9781400849727",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Progress in Photosynthesis Research",
+      "authors": "John Biggins",
+      "abstract": "No abstract available.",
+      "year": 1987,
+      "citations": 2085,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1007/978-94-009-3535-8",
+      "source": "OpenAlex"
+    }
+  ]
+}

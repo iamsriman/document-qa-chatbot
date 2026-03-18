@@ -36,7 +36,7 @@ function SearchResults({ papers, onSave, currentPage, totalPages, onPageChange }
           <button
             onClick={() => onPageChange(currentPage - 1)}
             disabled={currentPage === 1}
-            className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed"
+            className="px-4 py-2 bg-[#DECEAA] text-gray-900 rounded hover:bg-[#d6c49d] disabled:bg-gray-400 disabled:cursor-not-allowed"
           >
             Previous
           </button>
@@ -46,7 +46,7 @@ function SearchResults({ papers, onSave, currentPage, totalPages, onPageChange }
           <button
             onClick={() => onPageChange(currentPage + 1)}
             disabled={currentPage === totalPages}
-            className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed"
+            className="px-4 py-2 bg-[#DECEAA] text-gray-900 rounded hover:bg-[#d6c49d] disabled:bg-gray-400 disabled:cursor-not-allowed"
           >
             Next
           </button>

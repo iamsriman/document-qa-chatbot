@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-03-07T13:42:30.399004",
+  "query": "radiotherapy",
+  "papers": [
+    {
+      "title": "Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma",
+      "authors": "Roger Stupp, Warren Mason, Martin J. van den Bent, Michael Weller, Barbara Fisher et al.",
+      "abstract": "The addition of temozolomide to radiotherapy for newly diagnosed glioblastoma resulted in a clinically meaningful and statistically significant survival benefit with minimal additional toxicity.",
+      "year": 2005,
+      "citations": 21117,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa043330?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa043330",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Radiotherapy plus Cetuximab for Squamous-Cell Carcinoma of the Head and Neck",
+      "authors": "James A. Bonner, Paul M. Harari, J. Giralt, N. Azarnia, Dong M. Shin et al.",
+      "abstract": "Treatment of locoregionally advanced head and neck cancer with concomitant high-dose radiotherapy plus cetuximab improves locoregional control and reduces mortality without increasing the common toxic effects associated with radiotherapy to the head and neck. (ClinicalTrials.gov number, NCT00004227.)",
+      "year": 2006,
+      "citations": 5063,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa053422?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa053422",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial",
+      "authors": "Roger Stupp, Monika E. Hegi, Warren Mason, Martin J. van den Bent, Martin Taphoorn et al.",
+      "abstract": "No abstract available.",
+      "year": 2009,
+      "citations": 7674,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1016/s1470-2045(09)70025-7",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer",
+      "authors": "Ellen Kapiteijn, Corrie A.M. Marijnen, Irıs D. Nagtegaal, Hein Putter, Willem H. Steup et al.",
+      "abstract": "Short-term preoperative radiotherapy reduces the risk of local recurrence in patients with rectal cancer who undergo a standardized total mesorectal excision.",
+      "year": 2001,
+      "citations": 4186,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa010580?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa010580",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Risk of Ischemic Heart Disease in Women after Radiotherapy for Breast Cancer",
+      "authors": "Sarah C. Darby, Marianne Ewertz, Paul McGale, Anna M. Bennet, U. Blom-Goldman et al.",
+      "abstract": "Exposure of the heart to ionizing radiation during radiotherapy for breast cancer increases the subsequent rate of ischemic heart disease. The increase is proportional to the mean dose to the heart, begins within a few years after exposure, and continues for at least 20 years. Women with preexisting cardiac risk factors have greater absolute increases in risk from radiotherapy than other women. (Funded by Cancer Research UK and others.).",
+      "year": 2013,
+      "citations": 3845,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1209825?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa1209825",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Concurrent Chemotherapy and Radiotherapy for Organ Preservation in Advanced Laryngeal Cancer",
+      "authors": "Arlene A. Forastiere, Helmuth Goepfert, Moshe Maor, Thomas F. Pajak, Randal S. Weber et al.",
+      "abstract": "In patients with laryngeal cancer, radiotherapy with concurrent administration of cisplatin is superior to induction chemotherapy followed by radiotherapy or radiotherapy alone for laryngeal preservation and locoregional control.",
+      "year": 2003,
+      "citations": 3145,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa031317?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa031317",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Chemotherapy with Preoperative Radiotherapy in Rectal Cancer",
+      "authors": "Jean-François Bosset, Laurence Collette, G. Calais, Laurent Mineur, P. Maingon et al.",
+      "abstract": "In patients with rectal cancer who receive preoperative radiotherapy, adding fluorouracil-based chemotherapy preoperatively or postoperatively has no significant effect on survival. Chemotherapy, regardless of whether it is administered before or after surgery, confers a significant benefit with respect to local control. (ClinicalTrials.gov number, NCT00002523 [ClinicalTrials.gov].).",
+      "year": 2006,
+      "citations": 2692,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa060829?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejmoa060829",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Improved Survival with Preoperative Radiotherapy in Resectable Rectal Cancer",
+      "authors": "Swedish Rectal Cancer Trial",
+      "abstract": "A short-term regimen of high-dose preoperative radiotherapy reduces rates of local recurrence and improves survival among patients with resectable rectal cancer.",
+      "year": 1997,
+      "citations": 2504,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJM199704033361402?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejm199704033361402",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The role of radiotherapy in cancer treatment",
+      "authors": "Geoff P. Delaney, Susannah Jacob, C. Featherstone, Michael Bartoň",
+      "abstract": "Radiotherapy utilization rates for cancer vary widely internationally. It has previously been suggested that approximately 50% of all cancer patients should receive radiation. However, this estimate was not evidence-based. The aim of this study was to estimate the ideal proportion of new cases of cancer that should receive radiotherapy at least once during the course of their illness based on the best available evidence. An optimal radiotherapy utilization tree was constructed for each cancer based upon indications for radiotherapy taken from evidence-based treatment guidelines. The proportion...",
+      "year": 2005,
+      "citations": 1646,
+      "views": 0,
+      "pdf_link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cncr.21324",
+      "publisher_link": "https://doi.org/10.1002/cncr.21324",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Concurrent Cisplatin-Based Radiotherapy and Chemotherapy for Locally Advanced Cervical Cancer",
+      "authors": "Peter G. Rose, Brian N. Bundy, E. Blake Watkins, J.T. Thigpen, Günther Deppe et al.",
+      "abstract": "Regimens of radiotherapy and chemotherapy that contain cisplatin improve the rates of survival and progression-free survival among women with locally advanced cervical cancer.",
+      "year": 1999,
+      "citations": 2635,
+      "views": 0,
+      "pdf_link": "https://www.nejm.org/doi/pdf/10.1056/NEJM199904153401502?articleTools=true",
+      "publisher_link": "https://doi.org/10.1056/nejm199904153401502",
+      "source": "OpenAlex"
+    }
+  ]
+}

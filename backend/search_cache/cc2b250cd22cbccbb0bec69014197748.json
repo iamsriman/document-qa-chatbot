@@ -1,0 +1,105 @@
+{
+  "cached_at": "2026-02-24T10:20:36.001073",
+  "query": "ai video",
+  "papers": [
+    {
+      "title": "Video-based AI for beat-to-beat assessment of cardiac function",
+      "authors": "David Ouyang, Bryan He, Amirata Ghorbani, Neal Yuan, Joseph E. Ebinger et al.",
+      "abstract": "No abstract available.",
+      "year": 2020,
+      "citations": 935,
+      "views": 0,
+      "pdf_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/8979576",
+      "publisher_link": "https://doi.org/10.1038/s41586-020-2145-8",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking",
+      "authors": "Yuezun Li, Ming‐Ching Chang, Siwei Lyu",
+      "abstract": "The new developments in deep generative networks have significantly improve the quality and efficiency in generating realistically-looking fake face videos. In this work, we describe a new method to expose fake face videos generated with deep neural network models. Our method is based on detection of eye blinking in the videos, which is a physiological signal that is not well presented in the synthesized fake videos. Our method is evaluated over benchmarks of eye-blinking detection datasets and shows promising performance on detecting videos generated with DNN based software DeepFake.",
+      "year": 2018,
+      "citations": 931,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1109/wifs.2018.8630787",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Barriers to Industry Adoption of AI Video Generation Tools: A Study Based on the Perspectives of Video Production Professionals in China",
+      "authors": "Yu Tao, Wei Yang, Junping Xu, Younghwan Pan",
+      "abstract": "In recent years, the rapid advancement of artificial intelligence (AI) in the video sector has captured widespread attention. Despite the proliferation of AI video generation tools targeted at general consumers, there remains a gap in addressing the specialized requirements and advanced functionalities sought by industry professionals. This study aims to identify and overcome the barriers hindering the adoption of AI video tools in the Chinese video industry, thereby facilitating their seamless integration. The research unfolded in two phases employing a comprehensive methodology. Initially, w...",
+      "year": 2024,
+      "citations": 26,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/2076-3417/14/13/5770/pdf?version=1720430519",
+      "publisher_link": "https://doi.org/10.3390/app14135770",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "General Video Game AI: Competition, Challenges and Opportunities",
+      "authors": "Diego Pérez-Liébana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon M. Lucas",
+      "abstract": "The General Video Game AI framework and competition pose the problem of creating artificial intelligence that can play a wide, and in principle unlimited, range of games. Concretely, it tackles the problem of devising an algorithm that is able to play any game it is given, even if the game is not known a priori. This area of study can be seen as an approximation of General Artificial Intelligence, with very little room for game-dependent heuristics. This short paper summarizes the motivation, infrastructure, results and future plans of General Video Game AI, stressing the findings and first co...",
+      "year": 2016,
+      "citations": 176,
+      "views": 0,
+      "pdf_link": "https://ojs.aaai.org/index.php/AAAI/article/download/9869/9728",
+      "publisher_link": "https://doi.org/10.1609/aaai.v30i1.9869",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Evaluation of stenoses using AI video models applied to coronary angiography",
+      "authors": "Élodie Labrecque Langlais, Denis Corbin, Olivier Tastet, Ahmad Hayek, Gemina Doolub et al.",
+      "abstract": "No abstract available.",
+      "year": 2024,
+      "citations": 25,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41746-024-01134-4.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41746-024-01134-4",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "AI Video Editing: a Survey",
+      "authors": "Xinrong Zhang, Yanghao Li, Yuxing Han, Jiangtao Wen",
+      "abstract": "Video editing is a high-required job, for it requires skilled artists or workers equipped with plentiful physical strength and multidisciplinary knowledge, such as cinematography, aesthetics. Thus gradually, more and more researches focus on proposing semi-automatical and even fully automatical solutions to reduce workloads. Since those conventional methods are usually designed to follow some simple guidelines, they lack flexibility and capability to learn complex ones. Fortunately, the advances of computer vision and machine learning make up the shortages of traditional approaches and make AI...",
+      "year": 2022,
+      "citations": 8,
+      "views": 0,
+      "pdf_link": "https://www.preprints.org/manuscript/202201.0016/v2/download",
+      "publisher_link": "https://doi.org/10.20944/preprints202201.0016.v2",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "“The Word Real Is No Longer Real”: Deepfakes, Gender, and the Challenges of AI-Altered Video",
+      "authors": "Travis L. Wagner, Ashley Blewer",
+      "abstract": "Abstract It is near-impossible for casual consumers of images to authenticate digitally-altered images without a keen understanding of how to “read” the digital image. As Photoshop did for photographic alteration, so to have advances in artificial intelligence and computer graphics made seamless video alteration seem real to the untrained eye. The colloquialism used to describe these videos are “deepfakes”: a portmanteau of deep learning AI and faked imagery. The implications for these videos serving as authentic representations matters, especially in rhetorics around “fake news.” Yet, this al...",
+      "year": 2019,
+      "citations": 141,
+      "views": 0,
+      "pdf_link": "https://www.degruyter.com/document/doi/10.1515/opis-2019-0003/pdf",
+      "publisher_link": "https://doi.org/10.1515/opis-2019-0003",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Enhancing Pedagogy with Generative AI: Video Production from Course Descriptions",
+      "authors": "Oshani Weerakoon, Ville Leppänen, Tuomas Mäkilä",
+      "abstract": "This paper explores a novel workflow that integrates Generative AI tools, ChatGPT and DALL·E, into educational use, aiming to improve the traditional teaching methods in university education. Our workflow is focused on creating short introductory videos for university courses, using primary course descriptions available in the university’s study guide with the idea of introducing courses visually. This approach was deliberately selected for experimentation, and we believe that it could be further enhanced to generate course videos on specific course topics. This will minimize the efforts of te...",
+      "year": 2024,
+      "citations": 9,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1145/3674912.3674922",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Untitled",
+      "authors": "Unknown",
+      "abstract": "No abstract available.",
+      "year": 0,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1117/12.3055515.0eb7ad84-f992-ef11-a9a2-005056914f1c",
+      "source": "CrossRef"
+    }
+  ]
+}

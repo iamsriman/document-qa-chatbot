@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-02-25T12:28:15.984825",
+  "query": "hybrid quantum ",
+  "papers": [
+    {
+      "title": "The theory of variational hybrid quantum-classical algorithms",
+      "authors": "Jarrod R. McClean, Jonathan Romero, Ryan Babbush, Alán Aspuru‐Guzik",
+      "abstract": "Many quantum algorithms have daunting resource requirements when compared to\\nwhat is available today. To address this discrepancy, a quantum-classical\\nhybrid optimization scheme known as \"the quantum variational eigensolver\" was\\ndeveloped with the philosophy that even minimal quantum resources could be made\\nuseful when used in conjunction with classical routines. In this work we extend\\nthe general theory of this algorithm and suggest algorithmic improvements for\\npractical implementations. Specifically, we develop a variational adiabatic\\nansatz and explore unitary coupled cluster where w...",
+      "year": 2016,
+      "citations": 2134,
+      "views": 0,
+      "pdf_link": "https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023/pdf",
+      "publisher_link": "https://doi.org/10.1088/1367-2630/18/2/023023",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid quantum circuits: Superconducting circuits interacting with other quantum systems",
+      "authors": "Ze-Liang Xiang, Sahel Ashhab, J. Q. You, Franco Nori",
+      "abstract": "Hybrid quantum circuits combine two or more physical systems, with the goal of harnessing the advantages and strengths of the different systems in order to better explore new phenomena and potentially bring about novel quantum technologies. This article presents a brief overview of the progress achieved so far in the field of hybrid circuits involving atoms, spins, and solid-state devices (including superconducting and nanomechanical systems). How these circuits combine elements from atomic physics, quantum optics, condensed matter physics, and nanoscience is discussed, and different possible ...",
+      "year": 2013,
+      "citations": 1529,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1204.2137",
+      "publisher_link": "https://doi.org/10.1103/revmodphys.85.623",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid quantum systems based on magnonics",
+      "authors": "Dany Lachance-Quirion, Yutaka Tabuchi, Arnaud Gloppe, Koji Usami, Yasunobu Nakamura",
+      "abstract": "Abstract Engineered quantum systems enabling novel capabilities for computation and sensing have blossomed in the last decade. Architectures benefiting from combining complementary physical systems have emerged as promising approaches for quantum technologies. A new class of hybrid quantum systems based on collective spin excitations in ferromagnetic materials has led to the diverse set of platforms outlined in this review article. The coherent interaction between microwave cavity modes and spin-wave modes is presented as a key ingredient for the development of more complex hybrid systems. Ind...",
+      "year": 2019,
+      "citations": 660,
+      "views": 0,
+      "pdf_link": "https://iopscience.iop.org/article/10.7567/1882-0786/ab248d/pdf",
+      "publisher_link": "https://doi.org/10.7567/1882-0786/ab248d",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid quantum systems with circuit quantum electrodynamics",
+      "authors": "Aashish A. Clerk, K. W. Lehnert, Patrice Bertet, J. R. Petta, Yasunobu Nakamura",
+      "abstract": "No abstract available.",
+      "year": 2020,
+      "citations": 439,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1038/s41567-020-0797-9",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid Quantum-Classical Algorithms and Quantum Error Mitigation",
+      "authors": "Suguru Endo, Zhenyu Cai, Simon C. Benjamin, Xiao Yuan",
+      "abstract": "Quantum computers can exploit a Hilbert space whose dimension increases exponentially with the number of qubits. In experiment, quantum supremacy has recently been achieved by the Google team by using a noisy intermediate-scale quantum (NISQ) device with over 50 qubits. However, the question of what can be implemented on NISQ devices is still not fully explored, and discovering useful tasks for such devices is a topic of considerable interest. Hybrid quantum-classical algorithms are regarded as well-suited for execution on NISQ devices by combining quantum computers with classical computers, a...",
+      "year": 2021,
+      "citations": 475,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/2011.01382",
+      "publisher_link": "https://doi.org/10.7566/jpsj.90.032001",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Measurement-driven entanglement transition in hybrid quantum circuits",
+      "authors": "Yaodong Li, Xiao Dong Chen, Matthew P. A. Fisher",
+      "abstract": "Quantum information tends to spread out in interacting systems, leading to thermalization as characterized by the volume-law entropy of entanglement, while local measurements that extract classical information of the state tend to interrupt the propagation of information and reduce the entanglement entropy. Can entanglement sustain repeated measurements? The authors address this question in a toy hybrid-circuit model, where qubits undergo both unitary time evolution and sporadic local measurements. The phase diagram features a stable volume-law phase of entanglement for weak measurements and a...",
+      "year": 2019,
+      "citations": 605,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1901.08092",
+      "publisher_link": "https://doi.org/10.1103/physrevb.100.134306",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Simulation of enzyme reactions using valence bond force fields and other hybrid quantum/classical approaches",
+      "authors": "Johan Åqvist, Arieh Warshel",
+      "abstract": "ADVERTISEMENT RETURN TO ISSUEPREVarticleNEXTSimulation of enzyme reactions using valence bond force fields and other hybrid quantum/classical approachesJohan Åqvist and Arieh WarshelCite this: Chem. Rev. 1993, 93, 7, 2523–2544Publication Date (Print):November 1, 1993Publication History Published online1 November 1993Published inissue 1 November 1993https://pubs.acs.org/doi/10.1021/cr00023a010https://doi.org/10.1021/cr00023a010research-articleACS PublicationsCopyright © 1993 American Chemical SocietyRequest reuse permissionsArticle Views2115Altmetric-Citations750LEARN ABOUT THESE METRICSArticle...",
+      "year": 1993,
+      "citations": 817,
+      "views": 0,
+      "pdf_link": null,
+      "publisher_link": "https://doi.org/10.1021/cr00023a010",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum‐Classical Algorithms",
+      "authors": "Sukin Sim, Peter D. Johnson, Alán Aspuru‐Guzik",
+      "abstract": "Abstract Parameterized quantum circuits (PQCs) play an essential role in the performance of many variational quantum algorithms. One challenge in implementing such algorithms is choosing an effective circuit that well represents the solution space while maintaining a low circuit depth and parameter count. To characterize and identify expressible, yet compact, circuits, several descriptors are proposed, including expressibility and entangling capability, that are statistically estimated from classical simulations. These descriptors are computed for different circuit structures, varying the qubi...",
+      "year": 2019,
+      "citations": 714,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1905.10876",
+      "publisher_link": "https://doi.org/10.1002/qute.201900070",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "PennyLane: Automatic differentiation of hybrid quantum-classical\\n computations",
+      "authors": "Ville Bergholm, Josh Izaac, Maria Schuld, Christian Gogolin, Shahnawaz Ahmed et al.",
+      "abstract": "PennyLane is a Python 3 software framework for differentiable programming of\\nquantum computers. The library provides a unified architecture for near-term\\nquantum computing devices, supporting both qubit and continuous-variable\\nparadigms. PennyLane's core feature is the ability to compute gradients of\\nvariational quantum circuits in a way that is compatible with classical\\ntechniques such as backpropagation. PennyLane thus extends the automatic\\ndifferentiation algorithms common in optimization and machine learning to\\ninclude quantum and hybrid computations. A plugin system makes the frame...",
+      "year": 2018,
+      "citations": 558,
+      "views": 0,
+      "pdf_link": "https://arxiv.org/pdf/1811.04968",
+      "publisher_link": "https://doi.org/10.48550/arxiv.1811.04968",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid Quantum Information Processing",
+      "authors": "Unknown",
+      "abstract": "No abstract available.",
+      "year": 2011,
+      "citations": 0,
+      "views": 0,
+      "pdf_link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527635283.ch8",
+      "publisher_link": "https://doi.org/10.1002/9783527635283.ch8",
+      "source": "CrossRef"
+    }
+  ]
+}

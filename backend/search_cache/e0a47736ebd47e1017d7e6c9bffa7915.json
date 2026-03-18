@@ -1,0 +1,116 @@
+{
+  "cached_at": "2026-02-24T10:18:02.646349",
+  "query": "ai 3D printer",
+  "papers": [
+    {
+      "title": "Hollow-core antiresonant terahertz fiber-based TOPAS extruded from a 3D printer using a metal 3D printed nozzle",
+      "authors": "W. Talataisong, J. Gorecki, L. D. van Putten, R. Ismaeel, J. Williamson et al.",
+      "abstract": "We report the use of a terahertz (THz) transparent material, cyclic olefin copolymer (COC or TOPAS), for fabricating a hollow-core antiresonant fiber that provides an electromagnetic wave guidance in the THz regime. A novel fabrication technique to realize a hollow-core antiresonant polymer optical fiber (HC-ARPF) for THz guidance is proposed and demonstrated. The fiber is directly extruded in a single step procedure using conventional fused deposition modeling 3D printer. The fiber geometry is defined by a structured nozzle manufactured with a metal 3D printer, which allows tailoring of the n",
+      "year": 2021,
+      "citations": 36,
+      "views": 0,
+      "pdf_link": "https://eprints.soton.ac.uk/453386/1/prj_9_8_1513.pdf",
+      "publisher_link": "https://doi.org/10.1364/PRJ.420672",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Evaluation of Mechanical and Physical Properties of Light and Heat Polymerized UDMA for DLP 3D Printer",
+      "authors": "Qutaiba Alsandi, M. Ikeda, Yoshinori Arisaka, T. Nikaido, Yumi Tsuchida et al.",
+      "abstract": "The aims of this study were to investigate the feasibility of using a DLP 3D printer to fabricate a crown using scan data before tooth preparation, and to investigate the effect of additional heat curing on the mechanical properties of the urethane dimethacrylate (UDMA)-based 3D printed crown. A silicone fitting test was used to evaluate the internal adaptation of the crown. For ultimate tensile strength (UTS), the specimens were tested after 24 h storage in water at 37 °C or after 10,000 thermal cycles (TC) between 5–55 °C. For shear bond strength (SBS), a PMMA self-curing resin was filled in",
+      "year": 2021,
+      "citations": 21,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/1424-8220/21/10/3331/pdf?version=1620733994",
+      "publisher_link": "https://doi.org/10.3390/s21103331",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Connecting 3D Printer to the Industrial Internet of Things (IIoT) through MQTT Sparkplug B Protocol",
+      "authors": "Tonica Garcia, Aimee Rachel O. Aguilar, J. F. Dela Vega, Mary Margarette S. Macatumpag, Mhikaella Mae M. Vaay et al.",
+      "abstract": "Recent developments in manufacturing technology, such as IIoT and smart manufacturing have ignited the growth of interconnected networks of automation equipment, services, and enterprises. All tiers of the industrial ecosystem now require greater interoperability. However, this becomes a challenge due to the absence of accessible standardization. To address this, the study aims to establish interoperability of 3D printers with IIoT to monitor, manage, and control 3D printing operations more effectively using Sparkplug B IIoT protocol. The methodology starts with the system operating through an",
+      "year": 2023,
+      "citations": 2,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1109/HNICEM60674.2023.10589143",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "FabHydro: Printing Interactive Hydraulic Devices with an Affordable SLA 3D Printer",
+      "authors": "Zeyu Yan, Huaishu Peng",
+      "abstract": "We introduce FabHydro, a set of rapid and low-cost methods to prototype interactive hydraulic devices based on an off-the-shelf 3D printer and flexible photosensitive resin. We first present printer settings and custom support structures to warrant the successful print of flexible and deformable objects. We then demonstrate two printing methods to seal the transmission fluid inside these deformable structures: the Submerged Printing process that seals the liquid resin without manual assembly, and the Printing with Plugs method that allows the use of different transmission fluids without modifi",
+      "year": 2021,
+      "citations": 27,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1145/3472749.3474751",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Characterization of Emissions from a Desktop 3D Printer",
+      "authors": "Luís Mendes, Anneli Kangas, Kirsi Kukko, B. Mølgaard, A. Säämänen et al.",
+      "abstract": "3D printers are currently widely available and very popular among the general public. However, the use of these devices may pose health risks to users, attributable to air‐quality issues arising from gaseous and particulate emissions in particular. We characterized emissions from a low‐end 3D printer based on material extrusion, using the most common polymers: acrylonitrile‐butadiene‐styrene (ABS) and polylactic acid (PLA). Measurements were carried out in an emission chamber and a conventional room. Particle emission rates were obtained by direct measurement and modeling, whereas the influenc",
+      "year": 2017,
+      "citations": 140,
+      "views": 0,
+      "pdf_link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jiec.12569",
+      "publisher_link": "https://doi.org/10.1111/jiec.12569",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Drug response analysis for scaffold-free cardiac constructs fabricated using bio-3D printer",
+      "authors": "Kenichi Arai, D. Murata, Shoko Takao, Anna Nakamura, M. Itoh et al.",
+      "abstract": "Cardiac constructs fabricated using human induced pluripotent stem cells-derived cardiomyocytes (iPSCs-CMs) are useful for evaluating the cardiotoxicity of and cardiac response to new drugs. Previously, we fabricated scaffold-free three-dimensional (3D) tubular cardiac constructs using a bio-3D printer, which can load cardiac spheroids onto a needle array. In this study, we developed a method to measure the contractile force and to evaluate the drug response in cardiac constructs. Specifically, we measured the movement of the needle tip upon contraction of the cardiac constructs on the needle ",
+      "year": 2020,
+      "citations": 35,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41598-020-65681-y.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41598-020-65681-y",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Novel method for manufacturing optical fiber: extrusion and drawing of microstructured polymer optical fibers from a 3D printer.",
+      "authors": "W. Talataisong, R. Ismaeel, S. Sandoghchi, T. Rutirawut, Glenn Topley et al.",
+      "abstract": "Microstructured polymer optical fibers (MPOFs) have long attracted great interest due to their wide range of applications in biological and chemical sensing. In this manuscript, we demonstrate a novel technique of manufacturing MPOF via a single-step procedure by means of a 3D printer. A suspended-core polymer optical fiber has been extruded and directly drawn from a micro-structured 3D printer nozzle by using an acrylonitrile butadiene styrene (ABS) polymer. Near-field imaging at the fiber facet performed at the wavelength λ~1550 nm clearly indicates guidance in the fiber core. The propagatio",
+      "year": 2018,
+      "citations": 69,
+      "views": 0,
+      "pdf_link": "https://doi.org/10.1364/oe.26.032007",
+      "publisher_link": "https://doi.org/10.1364/OE.26.032007",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Design of an In-Process Quality Monitoring Strategy for FDM-Type 3D Printer Using Deep Learning",
+      "authors": "G. A. Sampedro, Danielle Jaye S. Agron, Gabriel Chukwunonso Amaizu, Dong‐Seong Kim, Jae-Min Lee",
+      "abstract": "Additive manufacturing is one of the rising manufacturing technologies in the future; however, due to its operational mechanism, printing failures are still prominent, leading to waste of both time and resources. The development of a real-time process monitoring system with the ability to properly forecast anomalous behaviors within fused deposition modeling (FDM) additive manufacturing is proposed as a solution to the particular problem of nozzle clogging. A set of collaborative sensors is used to accumulate time-series data and its processing into the proposed machine learning algorithm. The",
+      "year": 2022,
+      "citations": 33,
+      "views": 0,
+      "pdf_link": "https://www.mdpi.com/2076-3417/12/17/8753/pdf?version=1662019793",
+      "publisher_link": "https://doi.org/10.3390/app12178753",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Singlemoded THz guidance in bendable TOPAS suspended-core fiber directly drawn from a 3D printer",
+      "authors": "W. Talataisong, J. Gorecki, R. Ismaeel, M. Beresna, D. Schwendemann et al.",
+      "abstract": "Terahertz (THz) technology has witnessed a significant growth in a wide range of applications, including spectroscopy, bio-medical sensing, astronomical and space detection, THz tomography, and non-invasive imaging. Current THz microstructured fibers show a complex fabrication process and their flexibility is severely restricted by the relatively large cross-sections, which turn them into rigid rods. In this paper, we demonstrate a simple and novel method to fabricate low-cost THz microstructured fibers. A cyclic olefin copolymer (TOPAS) suspended-core fiber guiding in the THz is extruded from",
+      "year": 2020,
+      "citations": 28,
+      "views": 0,
+      "pdf_link": "https://www.nature.com/articles/s41598-020-68079-y.pdf",
+      "publisher_link": "https://doi.org/10.1038/s41598-020-68079-y",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Emissions of Nanoparticles and Gaseous Material from 3D Printer Operation.",
+      "authors": "Yuna Kim, C. Yoon, Seunghon Ham, Jihoon Park, Songha Kim et al.",
+      "abstract": "No abstract.",
+      "year": 2015,
+      "citations": 192,
+      "views": 0,
+      "pdf_link": "",
+      "publisher_link": "https://doi.org/10.1021/acs.est.5b02805",
+      "source": "Semantic Scholar"
+    }
+  ]
+}

@@ -76,7 +76,7 @@ function ChatInterface({ document }) {
 
   return (
     <div className="bg-white rounded-lg shadow-md h-full flex flex-col">
-      <div className="p-4 border-b bg-gradient-to-r from-blue-500 to-blue-600">
+      <div className="p-4 border-b bg-gradient-to-r from-teal-700 to-emerald-800">
         <h2 className="text-xl font-bold text-white">Chat: {document.filename}</h2>
         <p className="text-sm text-blue-100">Ask questions about your document</p>
       </div>
@@ -96,7 +96,7 @@ function ChatInterface({ document }) {
             <div
               className={`max-w-3/4 p-3 rounded-lg ${
                 message.type === 'user'
-                  ? 'bg-blue-600 text-white rounded-br-none'
+                  ? 'bg-teal-600 text-white rounded-br-none'
                   : 'bg-white text-gray-800 shadow rounded-bl-none'
               }`}
             >
@@ -133,7 +133,7 @@ function ChatInterface({ document }) {
           <button
             type="submit"
             disabled={loading || !question.trim()}
-            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors font-medium"
+            className="bg-[#DECEAA] text-gray-900 px-6 py-3 rounded-lg hover:bg-[#d6c49d] disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors font-medium"
           >
             Send
           </button>
@@ -144,3 +144,4 @@ function ChatInterface({ document }) {
 }
 
 export default ChatInterface;
+

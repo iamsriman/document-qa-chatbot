@@ -67,7 +67,7 @@ function ChatPage() {
         <div className="flex justify-end mb-4">
           <button
             onClick={() => setShowNewSession(!showNewSession)}
-            className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+            className="bg-[#DECEAA] text-gray-900 px-6 py-2 rounded-lg hover:bg-[#d6c49d] transition-colors"
           >
             {showNewSession ? '💬 My Sessions' : '➕ New Session'}
           </button>
@@ -108,7 +108,7 @@ function ChatPage() {
                     </div>
                     <button
                       onClick={handleCreateSession}
-                      className="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors font-medium"
+                      className="bg-[#DECEAA] text-gray-900 px-6 py-3 rounded-lg hover:bg-[#d6c49d] transition-colors font-medium"
                     >
                       Create Chat Session
                     </button>
