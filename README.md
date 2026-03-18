@@ -1,16 +1,12 @@
-# 🚀 Autonomous Research Chatbot with Daily Research Updates
+# **Autonomous Research Chatbot with Daily Research Updates**
 
-==========================================================
+An AI-powered **research intelligence platform** that enables users to discover academic papers, organize knowledge by topics, interact with multiple research documents using Retrieval-Augmented Generation (RAG), and receive automated research updates via email.
 
-An AI-powered research intelligence platform that enables users to discover academic papers, organize knowledge by topics, interact with multiple research documents using Retrieval-Augmented Generation (RAG), and receive automated research updates via email.
-
-This system combines research discovery, document understanding, and automated monitoring into a single unified platform — transforming how researchers interact with information.
+This system combines **research discovery, document understanding, and automated monitoring** into a single unified platform — transforming how researchers interact with information.
 
 ---
 
-## 🚀 Project Overview
-
----
+# 🚀 **Project Overview**
 
 Researchers often struggle with:
 
@@ -19,9 +15,7 @@ Researchers often struggle with:
 * Extracting insights across multiple papers
 * Staying consistently updated in fast-moving domains
 
-### 💡 Solution
-
-This project solves these challenges by building an end-to-end intelligent research system that:
+This project solves these challenges by building an **end-to-end intelligent research system** that:
 
 * Searches papers from academic APIs
 * Organizes research into topic-based collections
@@ -29,21 +23,17 @@ This project solves these challenges by building an end-to-end intelligent resea
 * Uses vector databases for semantic retrieval
 * Automatically sends curated research updates via email
 
-👉 **In simple terms:**
-It acts as a personal AI research assistant that learns, organizes, and keeps you updated automatically.
+👉 In simple terms:
+**It acts as a personal AI research assistant that learns, organizes, and keeps you updated automatically.**
 
 ---
 
-## 🧠 Core Capabilities
+# 🧠 **Core Capabilities**
 
----
+## 🔍 Research Paper Search
 
-### 🔍 Research Paper Search
-
----
-
-* Integrated with arXiv API and Semantic Scholar API
-* Displays:
+* Integrated with **arXiv API** and **Semantic Scholar API**
+* Structured display of:
 
   * Title
   * Authors
@@ -55,98 +45,89 @@ It acts as a personal AI research assistant that learns, organizes, and keeps yo
 
 ---
 
-### 📂 Topic-Based Research Organization
-
----
+## 📂 Topic-Based Research Organization
 
 * Create and manage research topics
 * Save and group papers under topics
 * View and manage collections
 * Delete irrelevant papers
 
-👉 Keeps research clean, structured, and scalable
+👉 Helps maintain a **clean and structured research workspace**
 
 ---
 
-### 🤖 Multi-Document RAG Chat
+## 🤖 Multi-Document RAG Chat
 
----
+The system supports **chatting with multiple research papers simultaneously**.
 
-Chat with multiple research papers simultaneously.
+### Workflow:
 
-### Workflow
+1. Upload PDFs
+2. Extract text
+3. Chunk the text
+4. Generate embeddings
+5. Store in vector database
+6. Retrieve relevant chunks for queries
+7. Generate grounded answers using LLM
 
-* Upload PDFs
-* Extract text
-* Chunk text
-* Generate embeddings
-* Store in vector DB
-* Retrieve relevant chunks
-* Generate answers using LLM
-
-### Features
+### Features:
 
 * Multi-document understanding
 * Context-aware responses
 * Conversation history
 * Session-based chat
 
-👉 Enables deep cross-paper insights
+👉 Enables **deep cross-paper exploration**
 
 ---
 
-### 📄 PDF Processing Pipeline
+## 📄 PDF Processing Pipeline
 
----
-
-Each document goes through:
+Each uploaded document goes through:
 
 * Text extraction (PyPDF)
 * Chunking (LangChain)
-* Embeddings (HuggingFace)
+* Embedding generation (HuggingFace)
 * Storage (ChromaDB)
 
-👉 Enables **semantic search over keyword search**
+👉 This enables **semantic search instead of keyword search**
 
 ---
 
-### 📧 Automated Research Email Updates (Key Innovation)
+## 📧 Automated Research Email Updates (Key Innovation)
 
----
+This system includes a **fully automated research monitoring feature**.
 
-A fully automated research monitoring system.
+### User Configuration:
 
-### User Config
-
-* Email
-* Topic
+* Email address
+* Research topic
 * Frequency (Daily / Weekly)
 * Preferred time
 
-### Workflow
+### System Workflow:
 
-* Scheduler triggers backend
-* Fetch latest papers
-* Generate summaries
-* Send email via Gmail
-* Store history
+1. Scheduler triggers backend
+2. Fetch latest papers from APIs
+3. Generate structured digest
+4. Summarize papers using LLM
+5. Send email via Gmail
+6. Store history in database
 
-### Email Includes
+### Each Email Contains:
 
-* Latest papers
+* Latest research paper links
 * Key highlights
-* AI summaries
-* Insights
+* AI-generated summaries
+* Overall insights for the topic
 
-👉 Converts system into a **continuous learning engine**
-
----
-
-## 🧩 System Architecture
+👉 This turns the system into a **continuous learning and monitoring engine**
 
 ---
 
-```
+# 🧩 **System Architecture (Simplified)**
+
+```text
 User → Frontend → Backend API
                 ↓
         Research APIs (arXiv, Semantic Scholar)
@@ -160,11 +141,9 @@ User → Frontend → Backend API
 
 ---
 
-## ⚙️ Technology Stack
+# ⚙️ **Technology Stack**
 
----
-
-### 🖥 Backend
+## Backend
 
 * FastAPI
 * Python
@@ -175,34 +154,32 @@ User → Frontend → Backend API
 * ChromaDB
 * PyPDF
 
-### 🎨 Frontend
+## Frontend
 
 * React.js (Vite)
 * Tailwind CSS
 * Axios
 
-### 🗄 Database
+## Database
 
 * SQLite (Development)
 * PostgreSQL (Production)
 
-### 🔄 Automation
+## Automation
 
-* Scheduler / Make.com
+* Scheduler (Backend / Make.com)
 * Gmail Integration
 
-### 🌐 APIs
+## External APIs
 
 * arXiv API
 * Semantic Scholar API
 
 ---
 
-## 🧠 RAG Pipeline
+# 🧠 **RAG Pipeline (How AI Answers Questions)**
 
----
-
-```
+```text
 PDF → Text → Chunks → Embeddings → Vector DB
         ↓
 User Query → Embedding → Similarity Search
@@ -210,19 +187,17 @@ User Query → Embedding → Similarity Search
 Relevant Context → Gemini LLM → Answer
 ```
 
-### ✅ Benefits
+👉 Ensures:
 
-* Grounded answers
-* Reduced hallucination
-* Improved accuracy
-
----
-
-## 📬 Email Automation Workflow
+* Answers are **grounded in documents**
+* Reduces hallucination
+* Improves accuracy
 
 ---
 
-```
+# 📬 **Email Automation Workflow**
+
+```text
 User Subscription
         ↓
 Scheduler Trigger
@@ -238,48 +213,44 @@ Store History (DB)
 
 ---
 
-## 🔌 API Endpoints
+# 🔌 **API Endpoints**
+
+## Research
+
+* `POST /api/search/papers`
+* `POST /api/papers/save`
+* `GET /api/topics`
+* `GET /api/topics/{id}/papers`
+
+## Documents
+
+* `POST /api/upload`
+* `GET /api/documents`
+* `DELETE /api/documents/{id}`
+
+## Chat
+
+* `POST /api/sessions/create`
+* `POST /api/query`
+* `GET /api/sessions/{id}`
+
+## Automation
+
+* `POST /api/auto-mail/enable`
+* `GET /api/auto-mail/trigger`
+* `GET /api/auto-mail/history/{email}`
 
 ---
 
-### 📚 Research
+# 🎯 **System Classification (Interview-Ready)**
 
-* POST `/api/search/papers`
-* POST `/api/papers/save`
-* GET `/api/topics`
-* GET `/api/topics/{id}/papers`
+👉 This system is:
 
-### 📄 Documents
+* ✅ **Multi-Document RAG System**
+* ✅ **AI Research Assistant**
+* ✅ **Automated Knowledge Monitoring System**
 
-* POST `/api/upload`
-* GET `/api/documents`
-* DELETE `/api/documents/{id}`
-
-### 💬 Chat
-
-* POST `/api/sessions/create`
-* POST `/api/query`
-* GET `/api/sessions/{id}`
-
-### ⚙️ Automation
-
-* POST `/api/auto-mail/enable`
-* GET `/api/auto-mail/trigger`
-* GET `/api/auto-mail/history/{email}`
-
----
-
-## 🎯 System Classification (Interview-Ready)
-
----
-
-### ✅ This System Is
-
-* Multi-Document RAG System
-* AI Research Assistant
-* Automated Knowledge Monitoring System
-
-### ❌ Not Yet
+👉 It is **NOT yet**:
 
 * GraphRAG
 * Agentic RAG
@@ -287,61 +258,47 @@ Store History (DB)
 
 ---
 
-## 🔥 Key Strengths
+# 🔥 **Key Strengths (What Makes This Stand Out)**
+
+* Combines **search + RAG + automation** in one system
+* Supports **multi-document reasoning**
+* Provides **real-time research updates**
+* Reduces manual research effort
+* Designed as a **continuous learning system**
 
 ---
 
-* Combines **search + RAG + automation**
-* Multi-document reasoning
-* Real-time research updates
-* Reduces manual effort
-* Continuous learning system
-
----
-
-## 🚧 Current Limitations
-
----
+# 🚧 **Current Limitations**
 
 * Limited cross-document reasoning
-* No reranking / advanced retrieval
-* No knowledge graph
-* Basic summarization
+* No reranking or advanced retrieval optimization
+* No knowledge graph integration
+* Basic summarization (can be improved)
 
 ---
 
-## 🚀 Future Enhancements
-
----
+# 🚀 **Future Enhancements**
 
 * Agentic RAG architecture
 * GraphRAG integration
-* Research trend dashboard
+* Research trend analysis dashboard
 * Advanced summarization & comparison
 * Citation export (BibTeX, APA)
 * Multi-user authentication
 
 ---
 
-## 🧠 Conclusion
+# 🧠 **Conclusion**
 
----
+This project demonstrates how modern AI technologies — including **LLMs, vector databases, and automation workflows** — can be integrated to build a powerful research assistant.
 
-This project demonstrates how modern AI systems — combining LLMs, vector databases, and automation — can transform research workflows.
+It enables users to:
 
-### 🎯 Enables Users To
-
-* Discover knowledge
-* Organize research
-* Interact intelligently
+* Discover academic knowledge
+* Organize research efficiently
+* Interact with documents intelligently
 * Stay continuously updated
 
-👉 Evolves beyond a chatbot into an:
+👉 Ultimately, this system evolves from a simple chatbot into an:
 
-# ⚡ Autonomous Research Intelligence System
-
-==========================================
-
----
-
-If you want next level: I can convert this into a **top 1% GitHub README (badges + diagrams + recruiter hooks)**.
+**Autonomous Research Intelligence System** 🚀
